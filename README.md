@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Frontend Developer</h2>
+<h2 align="left">Frontend Web Developer</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am a front-end developer from Bangladesh. Currently, I am a student at Eastern University of Bangladesh. I make beautiful web applications, and I also know some basics of backend.</p>
+<p align="left">I am a front-end web developer from Bangladesh. Currently, I am a student at Eastern University of Bangladesh. I make beautiful web applications, and I also know some basics of backend.</p>
 
 ###
 

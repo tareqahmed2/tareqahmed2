@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am a front-end web developer from Bangladesh. Currently, I am a student at Eastern University of Bangladesh. I make beautiful web applications, and I also know some basics of backend.</p>
+<p align="left">I am a Mern-Stack web developer from Bangladesh. Currently, I am a student at Eastern University of Bangladesh. I make beautiful web applications, and I also know some basics of backend.</p>
 
 ###
 

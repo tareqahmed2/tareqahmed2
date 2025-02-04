@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Mern-Stack Developer</h2>
+<h2 align="left">Mern-Stack Developer | Junior Frontend Developer</h2>
 
 ###
 
@@ -19,7 +19,7 @@
 <p align="left">I’m MD. Tareq Ahmed, a passionate MERN Stack Developer from Bangladesh, currently pursuing my B.Sc. in CSE at Eastern University, Dhaka (2022–2026). I specialize in building dynamic and user-friendly web applications using React, JavaScript, Tailwind CSS, and MongoDB, with a solid understanding of backend technologies like Node.js, Express.js, and JWT authentication. I’ve worked on projects like a Car Rental System and a Gaming Platform, and I’m always eager to learn, build, and collaborate on exciting projects.</p>
 
 ###
-
+<h3 align="left">Activities </h3>
 <p align="left">✨ Creating bugs since 2021<br>🚀 Currently learning: Java & exploring Next.js<br>🎯 Goal: Become a Junior Developer by 2025<br>🎲 Fun fact: I love to sleep, but debugging keeps me awake!</p>
 
 ###
@@ -31,9 +31,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />

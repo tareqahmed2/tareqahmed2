@@ -16,15 +16,15 @@
 
 ###
 
-<p align="left">I am a Mern-Stack web developer from Bangladesh. Currently, I am a student at Eastern University of Bangladesh. I make beautiful web applications, and I also know some basics of backend.</p>
+<p align="left">Hi, I'm MD. Tareq Ahmed, a passionate MERN Stack Developer from Bangladesh. I am currently pursuing my B.Sc. in Computer Science and Engineering at Eastern University, Dhaka (2022–2026).<br><br>I specialize in developing dynamic and user-friendly web applications using React, JavaScript, Tailwind CSS, and MongoDB. While my primary focus is on front-end development, I also have a solid understanding of backend technologies like Node.js, Express.js, and JWT authentication.<br><br>Skills & Technologies<br>Front-end: React, JavaScript, Tailwind CSS, HTML, CSS, REST APIs<br>Back-end: Node.js, Express.js, Mongoose, JWT<br>Database: MongoDB<br>Tools & Platforms: Git, GitHub, Firebase, VS Code, Vercel<br>Projects<br>Car Rental System: A full-featured car booking platform with real-time availability and secure authentication.<br>Gaming Platform: An online gaming hub with game management, reviews, and payment integration.<br>I am always eager to learn, build, and contribute to exciting projects. Let's connect and collaborate!</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning java and mongodb<br>🎯 Goals: Become Junior Developer by 2025 .<br>🎲 Fun fact: I like to sleep.</p>
+<p align="left">✨ Creating bugs since 2021<br>🚀 Currently learning: Java & exploring Next.js<br>🎯 Goal: Become a Junior Developer by 2025<br>🎲 Fun fact: I love to sleep, but debugging keeps me awake!</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h2 align="left">My Stats</h2>
+<h2 align="center">My Stats</h2>
 
 ###
 

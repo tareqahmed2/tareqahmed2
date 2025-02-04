@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hi, I'm MD. Tareq Ahmed, a passionate MERN Stack Developer from Bangladesh. I am currently pursuing my B.Sc. in Computer Science and Engineering at Eastern University, Dhaka (2022–2026).<br><br>I specialize in developing dynamic and user-friendly web applications using React, JavaScript, Tailwind CSS, and MongoDB. While my primary focus is on front-end development, I also have a solid understanding of backend technologies like Node.js, Express.js, and JWT authentication.<br><br>Skills & Technologies<br>Front-end: React, JavaScript, Tailwind CSS, HTML, CSS, REST APIs<br>Back-end: Node.js, Express.js, Mongoose, JWT<br>Database: MongoDB<br>Tools & Platforms: Git, GitHub, Firebase, VS Code, Vercel<br>Projects<br>Car Rental System: A full-featured car booking platform with real-time availability and secure authentication.<br>Gaming Platform: An online gaming hub with game management, reviews, and payment integration.<br>I am always eager to learn, build, and contribute to exciting projects. Let's connect and collaborate!</p>
+<p align="left">I’m MD. Tareq Ahmed, a passionate MERN Stack Developer from Bangladesh, currently pursuing my B.Sc. in CSE at Eastern University, Dhaka (2022–2026). I specialize in building dynamic and user-friendly web applications using React, JavaScript, Tailwind CSS, and MongoDB, with a solid understanding of backend technologies like Node.js, Express.js, and JWT authentication. I’ve worked on projects like a Car Rental System and a Gaming Platform, and I’m always eager to learn, build, and collaborate on exciting projects.</p>
 
 ###
 
